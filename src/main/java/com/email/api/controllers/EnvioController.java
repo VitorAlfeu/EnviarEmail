@@ -20,7 +20,6 @@ public class EnvioController {
 		message.setSubject("Titulo teste");
 		message.setText("Hello from Spring Boot Application");
 		message.setTo("exemplo@exemplo.com");
-		message.setFrom("exemplo@exemplo.com");
 
 		try {
 			mailSender.send(message);
