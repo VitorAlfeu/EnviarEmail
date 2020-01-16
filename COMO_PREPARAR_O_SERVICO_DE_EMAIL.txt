@@ -1,0 +1,7 @@
+É necessário criar uma conta no gmail se seguir os seguintes passos:
+
+ir em Configurações -> Configurações -> Contas e importação -> Outras configurações da Conta do Google -> Segurança -> Como fazer login no Google -> Senhas de app.
+
+Se não houver a opção "Senhas de App", será necessário criar uma "Verificação em duas etapas" antes para esta conta.
+
+Depois de criar a autenticação em duas etapas, criar uma senha de App com um título qualquer e copiar o código de 16 dígitos para o seu password no application.properties
